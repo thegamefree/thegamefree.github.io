@@ -1,0 +1,92 @@
+.cuadradoizquierda {
+  width: 300px;
+  height: 650px;
+  background-color: green;
+  border-radius: 10px;
+}
+
+body {
+  background-color: rgb(71, 250, 95);
+}
+
+input[type="text"] {
+  width: 200px;
+  border: 1px solid black;
+  background-color: #84EF95;
+
+  position: relative;
+  top: 30px;
+  left: 10px;
+  border-radius: 6px;
+}
+
+.boton1 {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 100px;
+  cursor: pointer;
+  position: relative;
+  bottom: 970px;
+  left: 363.1px;
+}
+
+.boton1:hover {
+  background-color: #3e8e41;
+}
+
+.cuphead {
+  position: relative;
+  bottom: 600px;
+  left: 370px;
+  border-radius: 100px;
+}
+.recuadro1 {
+width: 520px;
+height: 370px;
+border: 2px solid black;
+position: relative;
+bottom: 910px;
+left: 350px;
+border-radius: 30px;
+}
+
+.minecraft {
+  width: 450px;
+  position: relative;
+  bottom: 880px;
+  left: 385px;
+  border-radius: 100px;
+
+}
+
+.recuadro2 {
+  width: 500px;
+  height: 550px;
+  border-radius: 20px;
+  border: 1px solid black;
+  position: relative;
+  bottom: 1355px;
+  left: 350px;
+}
+
+.boton2 {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 100px;
+  cursor: pointer;
+  position: relative;
+  bottom: 1420px;
+  left: 363.1px;
+}
